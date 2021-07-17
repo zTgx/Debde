@@ -1,2 +1,2 @@
 # Debde
-🛴 WIP: Distributed server for Games
+🛴 WIP: QUIC based distributed server for Games written in Rust
