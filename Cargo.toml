@@ -1,0 +1,9 @@
+[workspace]
+members = ["debde", "debde-proto", "bench", "perf", "fuzz"]
+default-members = ["debde", "debde-proto", "bench", "perf", "fuzz"]
+
+[profile.bench]
+debug = true
+
+[profile.release]
+debug = true

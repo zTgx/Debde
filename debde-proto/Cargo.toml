@@ -1,0 +1,10 @@
+[package]
+name = "debde-proto"
+version = "0.1.0"
+publish = false
+authors = ["zTgx <beautifularea@163.com>"]
+edition = "2018"
+
+[dependencies]
+
+[dev-dependencies]
